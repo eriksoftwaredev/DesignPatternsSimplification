@@ -44,7 +44,7 @@ In this example, the Editor class (Originator) manages its state with the help o
 
 ✅ **My Refactored Solution:**
 
-Look at the "RefactoredSolution" project for the Memento Pattern.<br>
+Look at the "[RefactoredSolution](src/GoF/Behavioral/01-Memento/2-Solution/MementoSolution)" project for the Memento Pattern.<br>
 I've simplified and enhanced the user experience in the following ways:
 
 - Automatically initializes EditorHistory and CreateState within the Editor class.
