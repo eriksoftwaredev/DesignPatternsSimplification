@@ -1,1 +1,1 @@
-# DesignPatternsSimplification
+# Design Patterns Simplification
