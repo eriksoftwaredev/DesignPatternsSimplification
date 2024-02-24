@@ -18,11 +18,20 @@ Design patterns offer a structured approach, bridging the gap between programmin
 
 The surge in popularity of design patterns in computer science can be traced back to the publication of "Design Patterns: Elements of Reusable Object-Oriented Software" in 1994 by the "Gang of Four" (Gamma et al.), commonly abbreviated as "GoF." The inaugural Pattern Languages of Programming Conference took place that same year, with the establishment of the Portland Pattern Repository for documenting design patterns occurring the following year.
 
+The GoF Design Patterns are categorized into three groups:
+
+1. **_Creational Patterns:_** Various methods for object creation
+2. **_Structural Patterns:_** Relationships between objects
+3. **_Behavioral Patterns_:** Interactions among objects
+
 ### **Behavioral Patterns:**
 
-**In software engineering, behavioral design patterns refer to patterns that recognize and define common communication interactions among objects. These patterns enhance flexibility in managing communication processes.**
+**In software engineering, behavioral design patterns refer to patterns that recognize and define common communication interactions among objects. These patterns enhance flexibility in managing communication processes.**<br>
 
-#### **01. Memento**
+Here are the 11 Behavioral Patterns:
+
+---
+01. #### **Memento Pattern**
 
 ✅ **The Problem:**
 
@@ -53,10 +62,24 @@ I've simplified and enhanced the user experience in the following ways:
 <br>
 💡 Understanding and implementing the Memento pattern can greatly enhance the flexibility of your applications, especially when it comes to managing and reverting object states.
 
-#### **02. State**
+---
+02. #### **State Pattern**
 
 ✅ **The Problem:**
 
 ✅ **The Solution:**
 
 ✅ **My Refactored Solution:**
+
+---
+### **Creational Patterns:**
+
+**Creational patterns focus on decoupling a system from the specifics of object creation, composition, and representation. They enhance the system's flexibility by addressing what, who, how, and when objects are created.**
+
+Here are the 5 Creational Patterns:
+
+### **Structural Patterns:**
+
+**Structural design patterns are like shortcuts in software engineering that make designing easier. They help by showing a simple way to create relationships between objects.**
+
+Here are the 7 Structural Patterns:
