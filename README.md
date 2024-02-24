@@ -1,5 +1,8 @@
 # Simplifying Design Patterns
 
+![Design-Pattern](https://github.com/eriksoftwaredev/DesignPatternsSimplification/assets/86197661/a1f4bc11-9eed-4133-bc9a-4a275420ed91)
+
+
 In software engineering, design patterns provide reusable solutions to common problems in software design within a specific context.
 
 
