@@ -1,1 +1,1 @@
-# Design Patterns Simplification
+# Simplifying Design Patterns
